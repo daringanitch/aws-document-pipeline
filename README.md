@@ -123,5 +123,5 @@ theme: readthedocs
 ```
 mkdocs build --clean
 ```
-- resync the /site folder with your website git repo
+- resync the /site folder with your website git repo, make sure buildspec.yml file is in the root of the site.
 - deployment of new site will be automatic.
