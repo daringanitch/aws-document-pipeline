@@ -32,7 +32,7 @@ Git clone https://github.sphosting.com/CloudOps/doc-pipeline.git
 - cd into the s3-bucket-website directory
 - Modify the S3-WEB.tf
 - bucket name should be FDQN of website you plan to deploy.
--- ex. "s3-website-test.spehosting-ext.com"
+-- ex. "s3-website-test.sphosting-ext.com"
 
 run:
 
