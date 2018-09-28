@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the git repository of doc-pipeline to your local workstation, you will use the terraform scripts to build the s3 bucket and the codepipline for deployment of site.
 
 ```
-Git clone https://github.spehosting.com/CloudOps/doc-pipeline.git
+Git clone https://github.sphosting.com/CloudOps/doc-pipeline.git
 ```
 
 - cd into the s3-bucket-website directory
