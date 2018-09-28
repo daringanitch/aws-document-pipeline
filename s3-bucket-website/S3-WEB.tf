@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "s3-website-test.spehosting-ext.com"
+  bucket = "s3-website-test.sphosting-ext.com"
   acl    = "public-read"
   policy = "${file("policy.json")}"
 
