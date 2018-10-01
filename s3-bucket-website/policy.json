@@ -9,8 +9,8 @@
       "Action": "s3:*",
       "Resource": "arn:aws:s3:::s3-website-test.your-website.com/*",
       "Condition": {
-         "IpAddress": {"aws:SourceIp": "54.240.143.0/24"},
-         "NotIpAddress": {"aws:SourceIp": "54.240.143.188/32"} 
+         "IpAddress": {"aws:SourceIp": "54.240.100.0/24"},
+         "NotIpAddress": {"aws:SourceIp": "54.200.143.188/32"} 
       } 
     } 
   ]
